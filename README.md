@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elyssafadel
+- 👋 Hi, I’m Elyssa
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analysis using Python libraries
 - 💞️ I’m looking to collaborate on any data analysis projects
